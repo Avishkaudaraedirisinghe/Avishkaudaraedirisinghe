@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img>, I'm Avishka Udara</h1>
 <h3 align="center">A passionate Full-stack developer from Sri Lanka</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tharukakalansuriya&label=Profile%20views&color=0e75b6&style=flat" alt="tharukakalansuriya" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Avishka Udara&label=Profile%20views&color=0e75b6&style=flat" alt="Avishka Udara" /> </p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
