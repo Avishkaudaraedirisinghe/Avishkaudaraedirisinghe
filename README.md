@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning on **Flutter, Java, Java OOP**
 
-@@ -24,10 +25,14 @@
+
 <a href="https://www.facebook.com/profile.php?id=61557223303763&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Avishka Udara" height="30" width="40" /></a>
 <a href="https://www.instagram.com/avishkaedirisinghea?igsh=bmF2bDFpaHZ3NzF6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Avishka Udara" height="30" width="40" /></a>
 </p>
@@ -30,7 +30,7 @@
 <h3 align="center">My Statistics:</h3>
 <p align="center">
 <table align="center">
-@@ -41,7 +46,13 @@
+
 <td width="50%" align="center">
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tharukakalansuriya&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
