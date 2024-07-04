@@ -1,7 +1,7 @@
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 70px></picture></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img>, I'm Avishka Udara</h1>
-<h3 align="center">A passionate Full-stack developer from Sri Lanka</h3>
+<h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Avishka Udara&label=Profile%20views&color=0e75b6&style=flat" alt="Avishka Udara" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **LNBTI**
 
-- 🌱 I’m currently learning on **Flutter, Java, Java OOP**
+- 🌱 I’m currently learning on **C,C++,C#,Flutter, Java, Java OOP**
 
 
 <a href="https://www.facebook.com/profile.php?id=61557223303763&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Avishka Udara" height="30" width="40" /></a>
